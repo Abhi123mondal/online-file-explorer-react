@@ -1,0 +1,19 @@
+.width{
+    width: 100%;
+    
+}
+.text{
+  text-align: center;
+  margin-top: 50px;
+}
+.row{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    
+}
+.item{
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+  margin:10px;
+}
